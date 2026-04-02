@@ -1,6 +1,13 @@
-let hora = 12;
-if (hora > 12) {
+let hora = 24;
+
+
+if (hora >= 0 && hora >=11) {
     console.log ("bom dia!");
-} else {
+} 
+else if(hora >= 12 && hora >=17) {
     console.log ("Boa tarde!");
 }
+else{
+    console.log ("Boa noite!");
+}
+  
