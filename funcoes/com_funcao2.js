@@ -4,7 +4,7 @@ const preco1 = 3500;
 const produto2 = "mouse";
 const preco2 = 150;
 
-funcion exibirproduto(produto, preco) {
+function exibirproduto(produto, preco) {
     console.log (`$ {produto} - ${preço}`);
 }
 

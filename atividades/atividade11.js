@@ -1,11 +1,8 @@
-const nomes = []
-nomes [0] = "rafael";
-nomes [1] = "motta";
-nomes [2] = "sther";
-nomes [3] = "uncine";
-nomes [4] = "karine";
-nomes [5] = "felipe";
-nomes [6] = "bruno";
-nomes [7] = "monica";
-nomes [8] = "pedro";
-nomes [9] = "yara";
+const nome = ["joao" , "pedro" , "monica" , "garlet" , "gustavo" , "ana" , "sther" , "nicoly" , "miguel" , "lucas"]
+if (nome.includes ("joao") = true);
+if (nome == "henrique"){
+    console.log("nome encontrado na lista: ")
+}
+else {
+    console.log ("nome nao encontrado na lista: ")
+}
