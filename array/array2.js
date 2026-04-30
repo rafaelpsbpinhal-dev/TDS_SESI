@@ -1,13 +1,10 @@
+const nomes = [];
 
-const nomes = []
-nomes [0] = "rafael";
-nomes [1] = "motta";
-nomes [2] = "sther";
-nomes [3] = "uncine";
-nomes [4] = "karine";
-console.log (amigos [0]);
-console.log (amigos [1]);
-console.log (amigos [2]);
-console.log (amigos [3]);
-console.log (amigos [4]);
+// Desafio: Inserir 5 novos índices com 5 nomes e imprimir na tela
 
+nomes[0] = "Lucas";
+nomes[1] = "Rodrigo";
+nomes[2] = "Kelven";
+nomes[3] = "Saymon";
+nomes[4] = "Isabela";
+console.log(nomes);

@@ -6,5 +6,5 @@ let resultado = calcularTotal(30, 50); // Somar
 
 // Desafio: Imprimir concatenando e com template string
 
-console.log ("O total da compra: + resultado"); // concatenando
-console.log (`"O total da compra é: ${resultado}`) // Template string
+console.log("O total da compra é: " + resultado); // Concatenando
+console.log(`O total da compra é: ${resultado}`); // Template string

@@ -1,3 +1,4 @@
-var estaLigado = true;
-var estaLigado = !true;
-console.log (estaLigado);
+let estaLigado = true;
+estaLigado = !estaLigado; // Inverte para false
+
+console.log(`Status atual: ${estaLigado}`);

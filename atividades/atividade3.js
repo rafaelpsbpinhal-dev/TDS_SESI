@@ -1,14 +1,9 @@
-var idade = 18;
-var entradaVIP = true;
-var entrada = idade >=18 && entradaVIP == true ? "entrada com autorização" : "entrada sem autorização";
+let idadeUsuario = 20;
+let possuiConvite = true;
 
-console.log(entrada);
-
-if(idade >= 18 &&entradaVIP == true) {
-    console.log ("acesso permitido(if)");
+if (idadeUsuario > 18 && possuiConvite === true) {
+    console.log("Acesso autorizado ao evento VIP.");
+} else {
+    console.log("Acesso negado.");
 }
-else{
-    console.log("entrada não autorizada (else)");
-}
-
   

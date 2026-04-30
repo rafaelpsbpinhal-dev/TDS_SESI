@@ -7,7 +7,7 @@ console.log (frutas [3]);
 console.log (frutas);
 console.log (frutas.length); // qauntidade de índices dentro do array
  
-frutas[3] = "morango"
+frutas[4] = "morango"
 console.log(frutas);
 
 
